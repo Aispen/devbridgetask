@@ -29,7 +29,6 @@ public class Main {
 
 
                     if (fullDate.equals(palindrome)) {
-                        //System.out.println(checkIfPalindrome.reverse());
                         System.out.println(fromYear + "-" + formattedMonth + "-" + formattedDay);
                     }
                 }
